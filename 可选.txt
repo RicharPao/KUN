@@ -1,0 +1,7 @@
+文章封面（Front Matter）
+thumbnail
+
+默认会将封面设置为文章头图，可设置
+banner: false（Front Matter）
+关闭头图，仅显示封面
+
